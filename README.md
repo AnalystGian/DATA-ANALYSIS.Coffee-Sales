@@ -15,8 +15,13 @@ that owners can use to identify patterns, trends, and opportunities for the busi
 
 ## Below are the steps done in this project:
 Task 1. Convert to a table
+
 Task 2. QA & Data Profiling - Sorting and Filtering
+
 Task 3. Add calculated columns (Revenue, Month, Day of Week, Hour)
+
 Task 4. Data Analysis with PivotTables (time series & trends)
+
 Task 5. Data Visualization & Dashboarding
+
 Task 6. Reporting
